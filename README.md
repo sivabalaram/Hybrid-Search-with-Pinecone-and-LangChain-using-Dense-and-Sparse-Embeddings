@@ -1,0 +1,2 @@
+# Hybrid-Search-with-Pinecone-and-LangChain-using-Dense-and-Sparse-Embeddings
+Summary: This repository demonstrates a hybrid search application using Pinecone's vector database along with LangChain for text retrieval. We combine dense vector embeddings from HuggingFace and sparse embeddings using BM25 (TF-IDF) to enhance search accuracy. The repository covers the setup of Pinecone’s hybrid search index, embedding generation
